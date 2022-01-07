@@ -1,5 +1,5 @@
 # Creative-Utilities
 
-Adds simple effects to make your life easier:
+Adds simple effects to make life easier:
 
 * /nv - to enable Nightvision 
